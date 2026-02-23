@@ -1,1 +1,3 @@
 # devsync-auto-update
+
+trigger
